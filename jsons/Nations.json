@@ -1,38 +1,145 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
+		"name": "Great Lechia",
+		"leaderName": "Krak Gąsiorek",
+		"adjective": ["Lechian"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Great King Krakus Gąsiorek, you succeeded in leading the ancient people who, for 2000 years without interruption, occupied the territory from Alsace to the Urals. Your civilization not only led in science, but also triumphed militarily; your ancestors defeated Alexander, and you crushed the Roman Empire.”",
+		"startIntroPart2": "King Lech, will you restore your empire? Will you bring back the truth that has been fruitlessly hidden by the Vatican? Will you build a civilization that will endure for centuries?",
+		
+		"declaringWar": "The white bird pointed to you! Prepare to heart-extraction!",
+		"attacked": "Well, let the Gods decide.",
+		"defeated": "Kurva...",
+		"introduction": "Slava! I am Krak Gasiorek, conqueror of Rome and Lord of all Slavians.",
+		"neutralHello": "Dobry Den.",
+		"hateHello": "Kurva....",
+		"tradeRequest": "Great Lechia  offers you this legendary proposition.",
+
+
+		"outerColor": [222, 66, 66],
+		"innerColor": [1, 1, 1],
+		"uniqueName": "Tamers of Caesar and Alexander",
+		"uniques": [
+			"[+300]% Strength <vs cities> <when attacking> <for [{Military} {Land}] units>",
+			"[+5] Movement <when at war> <for [{Military} {Land}] units>"
+		],
+
+		"cities": ["Krakow", "Ziemia Zelaza", "Kielce", "Berlin", "Biala Gora", "Gniezno", "Praga", "Kiev", "Lechowe Pole" ]
+	},
+	{
+		"name": "נפילים",
+		"leaderName": "שַׁמְּחֲזַי",
+		"adjective": ["נפילים"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "שַׁמְּחֲזַי, forefather of the נפילים, you were not afraid to descend to the earth and build your own nation. You generously taught your people metallurgy, art, and magic; no nation was able to defeat your giants.",
+		"startIntroPart2": "שַׁמְּחֲזַי will you descend to the earth again? Will you lead your nation to glory and divinity? Will you create a civilization?",
+		
+		"declaringWar": "You disgust me, prepare to war",
+		"attacked": "The sons of Adam will know my wrath.",
+		"defeated": "David defeated Goliath.",
+		"introduction": "Welcome. I'm שַׁמְּחֲזַי, the most powerful and wisest of Angels",
+		"neutralHello": "Don't be afraid.",
+		"hateHello": "Be cursed.",
+		"tradeRequest": "נפילים  offers you this exceptional proposition.",
+
+
+		"outerColor": [166, 166, 66],
+		"innerColor": [1, 1, 111],
+		"uniqueName": "Blood of Angels",
+		"uniques": [
+			"[+2 Production] from every [Land] <during the [Ancient era]>",
+			"[+100]% Strength <for [{Military} {Land}] units> <during the [Ancient era]>",
+			"[+1 Production] from every [Land] <during the [Classical era]>",
+			"[+50]% Strength <for [{Military} {Land}] units> <during the [Classical era]>"
+		],
+		"cities": ["‏הַר חֶרְמוֹן‎", "עזאאל", "אסקלון", "עזה", "אשדוד", "עקרון", "גת"]
+	},
+	{
+		"name": "Gnomes",
+		"leaderName": "Rumpelstiltskin",
+		"adjective": ["Gnomian"],
+		"startBias": ["Tundra"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Rumpelstiltskin, wise leader of the gnomes, you knew well that your kingdom had to hide from the eyes of the big people. By avoiding world politics, your kingdom excelled in industry and science.",
+		"startIntroPart2": "Rumpelstiltskin, will you lead your hidden people to glory? Will you uncover the treasures of the earth? Will you create a civilization that will endure for centuries?”",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
-		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"declaringWar": "Forgive me, but the safety of my people demands this. Our hammers will ring once more.",
+		"attacked": "Ah... so it begins. We will defend our hidden halls with honor.",
+		"defeated": "Even in loss, the forges of the gnomes never go cold. May your heart stay kind.",
+		"introduction": "Greetings, friend. I am Rumpelstiltskin the Younger, humble keeper of the Invisible Kingdom."
+		"neutralHello": "Peace be upon you, wanderer of the surface.",
+		"hateHello": "Even stone can grow weary of strife.",
+		"tradeRequest": "Perhaps we can share what the earth has granted us. A fair trade is a lasting bridge.",
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"outerColor": [66, 222, 66],
+		"innerColor": [233, 36, 37],
+		"uniqueName": "The Invisible Kingdom",
+		"uniques": [
+			"[+1 Culture, +1 Science] per [5] population [in all cities] <when not at war>",
+			"[{Civilian} {non-air}] units gain the [Gnomish kingdom] promotion",
+			"[{Military} {non-air}] units gain the [Gnomish kingdom] promotion"
+		],
+		"cities": ["Gnomopolis", "Harz", "Grime's Graves", "Rudna Glava", "Hallstatt", "Great Orme", "Vroclav"]
+	},
+	{
+		"name": "Fingolia",
+		"leaderName": "Hatsune Miku",
+		"adjective": ["Fingolian"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Scientific",
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"startIntroPart1": "Hatsune Miku, proud Empress of Finngolia, after the Korean–Finnish Hyperwar you managed to unite the Finns and create the first Khaganate of Fingolia. The Finns returned to the pedestal of history, and they had the predispositions for it, after years of living in extreme arctic conditions, only the most intelligent Finnish genes survived",
+		"startIntroPart2": "Beloved Queen, will you remind the world of the glory of Fingolia? Will you once again lead your hyper-intelligent Finns? Will you build a horde that will withstand the test of time?",
+		
+		"declaringWar": "Gomenasai, but yourur wickedness ends here! The mighty fingolian hordes are already coming for your head!",
+		"attacked": "Why Oni-chan?",
+		"defeated": "Well, sayonara",
+		"introduction": "Moshi Moshi. I'm Hatsune Miku, of Fingolia!",
+		"neutralHello": "Hello player-kun!.",
+		"hateHello": "What did you come for? Baka",
+		"tradeRequest": "A gift for a gift?",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"outerColor": [222, 222, 222],
+		"innerColor": [6, 2, 112],
+		"uniqueName": "Ice Darwinism",
+		"uniques": [
+			"[+2 Science] from every [Tundra]",
+			"[+2 Science] from every [Snow]",
+			"Earn [5]% of killed [Military] unit's [Strength] as [Science]"
+		],
+		"cities": ["Perkele", "Uusikaarlepyy", "Lappeenranta", "Porvoo", "Kokkola", "Tokyo", "Turku"]
+	},
+	{
+		"name": "Khemet",
+		"leaderName": "Cleopatra",
+		"adjective": ["Khemtic"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "Africa is the cradle of humanity, and Africa is also the cradle of modern civilization. It was here that the Empire of Khemet was born, which laid the foundations for all other civilizations, and experienced its most magnificent era under the reign of the Black Cleopatra.",
+		"startIntroPart2": "Queen of Lower and Upper Egypt, will you return to lead your people once again? Will you restore their Golden Age? Will Khemet once again become a source of inspiration for the whole world? Will you create a civilization?",
+		
+		  "declaringWar": "Aight, I’m done playin’. I’m comin’ for you.",
+  		  "attacked": "Bro, why?",
+ 		   "defeated": "Aight then… that’s a wrap. Shiet.",
+ 		   "introduction": "Shiet! I’m Cleopatra of Khemet , one of the most beautiful black women in the world",
+ 		   "neutralHello": "Yo, what’s up?",
+ 		   "hateHello": "What you want now?",
+  		  "tradeRequest": "Khemet got an offer you might wanna look at."
+
+		"outerColor": [255, 222, 89],
+		"innerColor": [254, 0, 0],
+		"uniqueName": "We wuz kangs",
+		"uniques": [
+			"[+60]% Golden Age length",
+			"[+5 Gold] [in all cities]  <during a Golden Age>", 
+			"Gifts of Gold to City-States generate [+50]% more Influence <during a Golden Age>" ]
+		"cities": ["Thebes", "Aswan", "Naqada", "Koptos", "Mecca", "Medina", "Kaanan", "Axum"]
 	}
+
 ]
