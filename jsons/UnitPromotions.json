@@ -2,13 +2,21 @@
 	{
 		"name": "Gnomish kingdom"
 		"uniques": ["Invisible to non-adjacent units"]
-	}
+	},
+	{
+		"name": "Lizard Conspiracy"
+		"uniques": ["Invisible to non-adjacent units", "No movement cost to pillage", "Ignores Zone of Control"]
+	},
 	{
 		"name": "Combat Raptors"
 		"uniques": ["[-33]% Strength <vs cities> <when attacking>", "Heals [5] damage if it kills a unit"]
-	}
+	},
 	{
 		"name": "Gigantism"
 		"uniques": ["Can pass through impassable tiles"]
+	},
+	{
+		"name": "Herem"
+		"uniques": ["Destroys [in all cities] cities instead of capturing", "[+5] Strength"]
 	}
 ]

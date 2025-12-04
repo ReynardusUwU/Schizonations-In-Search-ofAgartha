@@ -89,4 +89,34 @@
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 	},
+	{
+		"name": "Haunebu",
+		"unitType": "Fighter",
+		"replaces": "Jet Fighter",
+		"uniqueTo": "Neuschwabenland",
+		"movement": 1,
+		"strength": 85,
+		"rangedStrength": 85,
+		"range": 30,
+		"interceptRange": 25,
+		"cost": 425,
+		"requiredTech": "Lasers",
+		"requiredResource": "Aluminum",
+		"uniques": ["[100]% chance to intercept air attacks", "[+150]% Strength <vs [Bomber] units>", "[+150]% Strength <vs [Helicopter] units>"],
+		"attackSound": "jetgun"
+	},
+	{
+		"name": "Government agent",
+		"unitType": "Gunpowder",
+		"replaces": "Marine",
+		"uniqueTo": "Reptillian Hegemony",
+
+		"movement": 2,
+		"strength": 75,
+		"cost": 400,
+		"requiredTech": "Pharmaceuticals",
+		"promotions": ["Amphibious", "Lizard Conspiracy"],
+		"uniques": ["[+1] Sight <when [Embarked]>", "[+100]% Strength <when defending> <when [Embarked]>"],
+		"attackSound": "shot"
+	},
 ]

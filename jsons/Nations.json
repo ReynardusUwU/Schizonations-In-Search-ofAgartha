@@ -52,9 +52,9 @@
 		"uniqueName": "Blood of Angels",
 		"uniques": [
 			"[+2 Production] from every [Land] <during the [Ancient era]>",
-			"[+100]% Strength <for [{Military} {Land}] units> <during the [Ancient era]>",
+			"[+120]% Strength <for [{Military} {Land}] units> <during the [Ancient era]>",
 			"[+1 Production] from every [Land] <during the [Classical era]>",
-			"[+50]% Strength <for [{Military} {Land}] units> <during the [Classical era]>"
+			"[+60]% Strength <for [{Military} {Land}] units> <during the [Classical era]>"
 		],
 		"cities": ["‏הַר חֶרְמוֹן‎", "עזאאל", "אסקלון", "עזה", "אשדוד", "עקרון", "גת"]
 	},
@@ -63,7 +63,7 @@
 		"leaderName": "Rumpelstiltskin",
 		"adjective": ["Gnomian"],
 		"startBias": ["Tundra"],
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "Rumpelstiltskin, wise leader of the gnomes, you knew well that your kingdom had to hide from the eyes of the big people. By avoiding world politics, your kingdom excelled in industry and science.",
 		"startIntroPart2": "Rumpelstiltskin, will you lead your hidden people to glory? Will you uncover the treasures of the earth? Will you create a civilization that will endure for centuries?”",
@@ -104,7 +104,7 @@
 		"hateHello": "What did you come for? Baka",
 		"tradeRequest": "A gift for a gift?",
 
-		"outerColor": [222, 222, 222],
+		"outerColor": [160, 160, 160],
 		"innerColor": [6, 2, 112],
 		"uniqueName": "Ice Darwinism",
 		"uniques": [
@@ -140,6 +140,65 @@
 			"[+5 Gold] [in all cities]  <during a Golden Age>", 
 			"Gifts of Gold to City-States generate [+50]% more Influence <during a Golden Age>" ]
 		"cities": ["Thebes", "Aswan", "Naqada", "Koptos", "Mecca", "Medina", "Kaanan", "Axum"]
+	},
+{
+		"name": "Neuschwabenland",
+		"leaderName": "Alfred Ritscher",
+		"adjective": ["Neuschwabenlandian"],
+		"startBias": ["Snow"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Alfred Ritscher, great explorer of Antarctica, it was you who led the Kriegmarine in search of agartha, and although you didn't find it, you discovered many interesting artifacts. After the war, you exiled Hitler, and then, with the last people loyal to you, built colonies in Antarctica, where to this day your people put up Aryan resistance against the Jewish invaders.",
+		"startIntroPart2": "Great Captain, will you restore the Aryan heritage hidden in this frozen land? Will you avenge Hitler? Will you build a civilization that will stand the test of time?",
+		
+		"declaringWar": "Bereitet euch auf den Blitzkrieg vor! Sieg Heil!",
+		"attacked": "Typisch für Untermenschen wie dich.",
+		"defeated": "Es ist die Schuld der Juden.",
+		"introduction": "Moshi Moshi. I'm Hatsune Miku, of Fingolia!",
+		"neutralHello": "Heil Hitler!",
+		"hateHello": "Sprich, Jude...",
+		"tradeRequest": "Lasst uns gemeinsam jüdische Märkte meiden!",
+
+		"outerColor": [69, 58, 58],
+		"innerColor": [222, 24, 24],
+		"uniqueName": "The Last True Germans ",
+		"uniques": [
+			"[+2 Food] from every [Snow]",
+			"[+2 Production] from every [Snow]",
+			"[+50]% City Strength from defensive buildings"
+		],
+		"cities": ["NeuBerlin","Humboldtberg","Eckhörner","Gablenz-Ridge","Habermehl Peak","Schulz Heights","Mount Zimmermann","Zuckerhut","Am Überlauf" ]
+	},
+
+{
+		"name": "Reptillian Hegemony",
+		"leaderName": "Mark Zuckerberg ",
+		"adjective": ["Reptillianian"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "The lizard beings had always sought to enslave humanity, and almost every religion carried within it a myth of hatred toward the lizard folk. However, after the first nuclear war, the lizard-people retreated into the shadows, from where they secretly ruled. Their power grew especially strong during the reign of the fictional leader Mark Zuckenberg, who, through a global system of infiltration, seized control over the minds and bodies of the entire Western civilization.",
+		"startIntroPart2": "Son of the great Dragon, jaws of Behemoth, will you enslave humanity once again? Will your inventions propel your race to glory? Will your civilization stand the test of time?",
+		
+		"declaringWar": "Your sssstupid sssspecies will be exterminated, NOW.",
+		"attacked": "Sssstupid monkey",
+		"defeated": "I may not be on the map anymore, but I'm the one pulling the sssstrings...",
+		"introduction": "Sssshalom, I am Mark Zuckerberg, not everyone can sssee my real face.",
+		"neutralHello": "Sssshalom.",
+		"hateHello": "You can't Log In? hehehe",
+		"tradeRequest": "Will we do big businesssss?",
+
+		"outerColor": [255, 255, 255],
+		"innerColor": [60, 90, 154],
+		"uniqueName": "Reptilian Instinct",
+		"uniques": [
+					"[{Military} {Land}] units gain the [Amphibious] promotion",
+					"Gain an extra spy <upon entering the [Information era]>",
+					"[+20]% spy effectiveness [in all cities]",
+
+
+		],
+		"cities": ["White Plains","New York","Hollywood","Ohio","New Baylon","Snake Cave","Yonkers","Rochester","Syracuse"]
 	}
 
 ]

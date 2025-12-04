@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Nuclear Parousia",
+        "type": "Follower",
+        "uniques": [
+"[+4 Faith] from every [Uranium]",
+"May buy [Atomic Bomb] buildings with [Faith] [in cities following this religion]"
+]
+    }
+
+    {
+        "name": "Deus ex Machina",
+        "type": "Follower",
+        "uniques": [
+"[+2 Faith] from every [Coal] <in cities with at least [5] [Followers of this Religion]>",
+"[+6 Faith] from every [Factory] <in cities with at least [5] [Followers of this Religion]>",
+"[+4 Culture] from every [Factory] <in cities with at least [5] [Followers of this Religion]>",
+]
+    }
+
+    {
+        "name": "Idolatry",
+        "type": "Follower",
+        "uniques": ["May buy [Golden Calf] buildings with [Faith] [in cities following this religion]"]
+    },
+{
+        "name": "God who hate",
+        "type": "Pantheon",
+        "uniques": ["All newly-trained [Melee] units [in all cities] receive the [Herem] promotion"]
+    }
+
+]
