@@ -67,7 +67,7 @@
 		"science": 5,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Scientist": 2},
-        "uniques": ["Only available <if [Medical Lab] is constructed in all [non-[Puppeted]] cities>","[+2 Science] from every specialist [in all citie]"],
+        "uniques": ["Only available <if [Medical Lab] is constructed in all [non-[Puppeted]] cities>","[+2 Science] from every specialist [in all cities]"],
 		"requiredTech": "Pharmaceuticals",
 		"quote": "'Thimerosal is a controversial mercury based (sic) vaccine preservative that research scientists and vaccine safety advocates have connected to the epidemic of brain disorders (Autism) in children.' - Robert F. Kennedy, Jr."
 	},
@@ -117,5 +117,6 @@
 			"[+1 Gold, +1 Faith] from [Silver] tiles [in this city]",
 			"Unbuildable", "Only available <when religion is enabled>", "Destroyed when the city is captured"]
 	}
+
 
 ]
