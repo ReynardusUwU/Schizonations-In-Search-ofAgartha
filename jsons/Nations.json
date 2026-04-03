@@ -5,6 +5,8 @@
 		"adjective": ["Lechian"],
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Domination",
+		"personality": "Krak",
+
 		
 		"startIntroPart1": "Great King Krakus Gąsiorek, you succeeded in leading the ancient people who, for 2000 years without interruption, occupied the territory from Alsace to the Urals. Your civilization not only led in science, but also triumphed militarily; your ancestors defeated Alexander, and you crushed the Roman Empire.”",
 		"startIntroPart2": "King Lech, will you restore your empire? Will you bring back the truth that has been fruitlessly hidden by the Vatican? Will you build a civilization that will endure for centuries?",
@@ -34,6 +36,8 @@
 		"adjective": ["נפילים"],
 		"startBias": ["Desert"],
 		"preferredVictoryType": "Domination",
+		"personality": "Nefi",
+
 		
 		"startIntroPart1": "שַׁמְּחֲזַי, forefather of the נפילים, you were not afraid to descend to the earth and build your own nation. You generously taught your people metallurgy, art, and magic; no nation was able to defeat your giants.",
 		"startIntroPart2": "שַׁמְּחֲזַי will you descend to the earth again? Will you lead your nation to glory and divinity? Will you create a civilization?",
@@ -64,6 +68,8 @@
 		"adjective": ["Gnomian"],
 		"startBias": ["Tundra"],
 		"preferredVictoryType": "Diplomatic",
+		"personality": "Gnomes",
+
 		
 		"startIntroPart1": "Rumpelstiltskin, wise leader of the gnomes, you knew well that your kingdom had to hide from the eyes of the big people. By avoiding world politics, your kingdom excelled in industry and science.",
 		"startIntroPart2": "Rumpelstiltskin, will you lead your hidden people to glory? Will you uncover the treasures of the earth? Will you create a civilization that will endure for centuries?”",
@@ -92,6 +98,8 @@
 		"adjective": ["Fingolian"],
 		"startBias": ["Tundra"],
 		"preferredVictoryType": "Scientific",
+		"personality": "Fingolia",
+
 		
 		"startIntroPart1": "Hatsune Miku, proud Empress of Finngolia, after the Korean–Finnish Hyperwar you managed to unite the Finns and create the first Khaganate of Fingolia. The Finns returned to the pedestal of history, and they had the predispositions for it, after years of living in extreme arctic conditions, only the most intelligent Finnish genes survived",
 		"startIntroPart2": "Beloved Queen, will you remind the world of the glory of Fingolia? Will you once again lead your hyper-intelligent Finns? Will you build a horde that will withstand the test of time?",
@@ -120,6 +128,10 @@
 		"adjective": ["Khemtic"],
 		"startBias": ["Desert"],
 		"preferredVictoryType": "Scientific",
+		"personality": "Khemet",
+		"favoredReligion": "Islam",
+
+
 		
 		"startIntroPart1": "Africa is the cradle of humanity, and Africa is also the cradle of modern civilization. It was here that the Empire of Khemet was born, which laid the foundations for all other civilizations, and experienced its most magnificent era under the reign of the Black Cleopatra.",
 		"startIntroPart2": "Queen of Lower and Upper Egypt, will you return to lead your people once again? Will you restore their Golden Age? Will Khemet once again become a source of inspiration for the whole world? Will you create a civilization?",
@@ -138,7 +150,14 @@
 		"uniques": [
 			"[+60]% Golden Age length",
 			"[+5 Gold] [in all cities]  <during a Golden Age>", 
-			"Gifts of Gold to City-States generate [+50]% more Influence <during a Golden Age>" ]
+			"Gifts of Gold to City-States generate [+50]% more Influence <during a Golden Age>" 
+			"Free [Black revolutionary] appears  <upon conquering a city> <during the [Industrial era]>",
+			"Free [Black revolutionary] appears  <upon conquering a city> <during the [Modern era]>",
+			"Free [Black revolutionary] appears  <upon conquering a city> <during the [Atomic era]>", 
+			"Free [Black revolutionary] appears  <upon conquering a city> <during the [Information era]>",
+			"Free [Black revolutionary] appears  <upon conquering a city> <during the [Future era]>",
+
+			]
 		"cities": ["Thebes", "Aswan", "Naqada", "Koptos", "Mecca", "Medina", "Kaanan", "Axum"]
 	},
 {
@@ -147,6 +166,9 @@
 		"adjective": ["Neuschwabenlandian"],
 		"startBias": ["Snow"],
 		"preferredVictoryType": "Domination",
+		"personality": "Neuschwabenland",
+		"favoredReligion": "Kali Yuga",
+
 		
 		"startIntroPart1": "Alfred Ritscher, great explorer of Antarctica, it was you who led the Kriegmarine in search of agartha, and although you didn't find it, you discovered many interesting artifacts. After the war, you exiled Hitler, and then, with the last people loyal to you, built colonies in Antarctica, where to this day your people put up Aryan resistance against the Jewish invaders.",
 		"startIntroPart2": "Great Captain, will you restore the Aryan heritage hidden in this frozen land? Will you avenge Hitler? Will you build a civilization that will stand the test of time?",
@@ -176,6 +198,8 @@
 		"adjective": ["Reptillianian"],
 		"startBias": ["Jungle"],
 		"preferredVictoryType": "Diplomatic",
+		"personality": "Reptillian",
+
 		
 		"startIntroPart1": "The lizard beings had always sought to enslave humanity, and almost every religion carried within it a myth of hatred toward the lizard folk. However, after the first nuclear war, the lizard-people retreated into the shadows, from where they secretly ruled. Their power grew especially strong during the reign of the fictional leader Mark Zuckenberg, who, through a global system of infiltration, seized control over the minds and bodies of the entire Western civilization.",
 		"startIntroPart2": "Son of the great Dragon, jaws of Behemoth, will you enslave humanity once again? Will your inventions propel your race to glory? Will your civilization stand the test of time?",
@@ -199,6 +223,135 @@
 
 		],
 		"cities": ["White Plains","New York","Hollywood","Ohio","New Baylon","Snake Cave","Yonkers","Rochester","Syracuse"]
+	},
+
+
+{
+		"name": "Fifth Empire",
+		"leaderName": "Sebastian I ",
+		"adjective": ["Fifth Empire"],
+		"startBias": ["Coast","Jungle"],
+		"preferredVictoryType": "Diplomatic",
+		"personality": "Pedro Pedro",
+		"favoredReligion": "True Catholic",
+
+		
+		"startIntroPart1": "The Prophecy of Daniel has been fulfilled: from the Iberian Peninsula, Christian sails set forth to unite all of humanity in the Catholic faith. Thus is born the idea of Portugueseness. A Portuguese is not a European, not an American, not an African, a Portuguese is future, the brotherhood of all races!",
+		"startIntroPart2": "Saint King Sebastian I, the Portuguese people have been waiting for you for centuries. Will you bring Catholicism to the entire world? Will you unite all races beyond division? Will you create a civilization that will stand the test of time?",
+		
+		"declaringWar": "Meet Ira de Deus!",
+		"attacked": "How dare you attack the CATHOLIC empire?!",
+		"defeated": "Deus forgive them, for they know not what they do..",
+		"introduction": "Deus te abençoe, I am Sebastião I, the holy Catolico Rei of the Fifth Empire, I gostaria muito learn about your culture and talk about Jesus",
+		"neutralHello": "Amen",
+		"hateHello": "Deus condemns people like you",
+		"tradeRequest": "Let's talk sobre comércio.",
+
+		"outerColor": [0, 87, 23],
+		"innerColor": [255, 82, 82],
+		"uniqueName": "Portugueseness for everyone!",
+		"uniques": [
+					"[+3] Movement <for [Water] units>",
+					"[-60]% Culture cost of natural border growth [in all cities] <on foreign continents>"
+
+
+		],
+		"cities": ["Lisbon","Porto","Fátima", "Faro", "São Paulo", "Rio de Janeiro", "Salvador", "São Luís","Mbanza Kongo", "São Salvador", "Goa", "Bombay" ]
 	}
 
+
+{
+		"name": "The Trve MEN empire",
+		"leaderName": "Chad Thundercock",
+		"adjective": ["The Trve MEN empire"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Domination",
+		"personality": "mars",
+
+		
+		"startIntroPart1": "Masculinity is not a product of nature, but the result of hard work, sweat, and tears. This truth was discovered by the ancient Achaeans, who created a culture based on the glorification of the transcendent value of strength, facial hair, testicles, and the penis. Years of tradition made it possible to refine new forms of muscular development and also forced reflection on male friendship. MASCULINITY, this is what your people gave to the world!",
+		"startIntroPart2": "Chad Thundercock, your people await you to set them right with your masculine, strong, dominant arm. Will you lead your nation to glory? Will you teach it superhuman manliness? Will you forge them into true men? Will you endure the trial of time and build a civilization?",
+		"declaringWar": "Prepare your ass for my penis!",
+		"attacked": "Faggot!",
+		"defeated": "I may have lost, but I'll walk away like a man with his dick proudly raised!",
+		"introduction": "Hello young heifer! I'm Chad Thundercock, and as you can see, I'm the most manly man on earth. Want to know my secret?",
+		"neutralHello": "Bro",
+		"hateHello": "That's gay",
+		"tradeRequest": "Dick for dick?",
+
+		"outerColor": [255, 255, 92],
+		"innerColor": [255, 92, 250],
+		"uniqueName": "TRVE MEN NOT CRY",
+		"uniques": [
+			"No damage penalty for wounded units",
+			"All healing effects doubled",
+		],
+		"cities": ["Dickpolis","Penisia","Boyland", "Biggus Dicus", "Fuckpolis", "Muscularum", "Muscletown", "Bomgey" , "Chadrusalem", "Twinkburg"]
+	}
+
+{
+		"name": "Catholic Church",
+		"leaderName": "Whore of Babylon",
+		"adjective": ["Catholic"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Diplomatic",
+		"personality": "mars",
+		"favoredReligion": "Catholic",
+
+		
+		"startIntroPart1": "The Catholic Church… founded on the betrayal of its own Master, has lied to and manipulated the faithful for generations. It ruled kings. It burned defiant scientists. It kept innocent children locked in basements. This disgusting institution resistant to reform, resistant to change. Your civilization is proof that evil can survive for centuries.",
+		"startIntroPart2": "Whore of Babylon, will you once again lead this degeneration onto golden thrones? Will you mock God? Will you undermine humanity’s hope for salvation? Will you build a civilization that can withstand the trial of time?",
+		"declaringWar": "Jesus forgives, but I am not Jesus",
+		"attacked": "How dare you attack the Holy seat of the Apostles?!",
+		"defeated": "I hope God didn't exist..",
+		"introduction": "Spiritus Sanctus! Yes, a sexy woman rules the Vatican, surprised? How about we discuss politics over the blood of Christ?",
+		"neutralHello": "Cool golden throne, huh?.",
+		"hateHello": "I guess you won't get absolution",
+		"tradeRequest": "I'd like to sell you a few indulgences?",
+
+		"outerColor": [148, 28, 15],
+		"innerColor": [240, 255, 79],
+		"uniqueName": "The tentacles of the Vatican",
+		"uniques": [
+			"[{Military} {non-air} Destroys [in all cities] cities instead of capturing",
+			"Enables conversion of city production to [Faith]",
+			"May choose [1] additional belief(s) of any type when [founding] a religion",	
+			"[{Military} {non-air}] units gain the [The Inquisitor's Touch] promotion",			
+		],
+		"cities": ["Vatican", "The Pope's Secret Basement" ]
+	}
+	
+	
+{
+		"name": "Kaczynski's Horde",
+		"leaderName": "Ted Kaczynski",
+		"adjective": ["Kaczynski"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Domination",
+		"personality": "Kaczynski",
+
+		
+		"startIntroPart1": "UGA BUGA OOO UGG UGA EEE OWWW YIFF UGA BUGA OOO UGG UGA EEE OWWW YIFF",
+		"startIntroPart2": "Te OWW OGA BUGA OGO BUGA!",
+		"declaringWar": "MY FIST IN YOUR FACE",
+		"attacked": "AAAAAAA",
+		"defeated": "....",
+		"introduction": "I TED KACZYNSKI, INDUSTRIAL REVOLUTION BAD, TECHNOLOGY BAD, GRAMMAR BAD",
+		"neutralHello": "I TED KACZYNSKI",
+		"hateHello": "YOU UGLY",
+		"tradeRequest": "GLOWING STONES, NICE",
+
+		"outerColor": [41, 191, 0],
+		"innerColor": [37, 43, 37],
+		"uniqueName": "The Industrial Revolution and Its Consequences",
+		"uniques": [
+			"[+1000000]% Science cost of researching new Technologies",
+			"[-50 Science] [in all cities]",
+			"[+1 Happiness] from every [Forest] <during the [Ancient era]>",
+			"[+1 Happiness] from every [Jungle] <during the [Ancient era]>",
+			"All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel.",
+			"[-50]% Unhappiness from [Population] [in all cities]",
+		],
+		"cities": ["Kaczynski Cave", "Ted Cave", "New Cave", "Big Cave", "Nice Cave", "Banana Cave" ]
+	}
 ]

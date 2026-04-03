@@ -1,18 +1,31 @@
 [	
-{
-		"name": "Snow",
-		"type": "Land",
-		"movementCost": 1,
-		"RGB": [230, 238, 255], //Darker229, 229, 255
-		"uniques": [
-            "Occurs at temperature between [-1] and [-0.9] and humidity between [0] and [1]",
-            "Occurs at temperature between [-0.9] and [-0.8] and humidity between [0] and [0.8]",
-            "Occurs at temperature between [-0.8] and [-0.7] and humidity between [0] and [0.6]",
-            "Occurs at temperature between [-0.7] and [-0.6] and humidity between [0] and [0.4]",
-            "Occurs at temperature between [-0.6] and [-0.5] and humidity between [0] and [0.2]",
-            "Always Fertility [-1] for Map Generation",
-            "Becomes [Tundra] when adjacent to [River]",
-            "Every [17] tiles with this terrain will receive a major deposit of a strategic resource.",
-            "Never receives any resources <in [Hill] tiles>"]
-	}
+	{
+		"name": "Epstein island",
+		"type": "NaturalWonder",
+		"happiness": 6,
+		"gold": 2,
+		"occursOn": ["Ocean"],
+		"uniques": ["Must be adjacent to [1] to [6] [Coast] tiles",
+			"Must be adjacent to [0] [Ice] tiles",
+			"Neighboring tiles will convert to [Coast]"],
+		"turnsInto": "Plains",
+		"impassable": true,
+		"unbuildable": true,
+		"weight": 10
+	},
+	{
+		"name": "Roswell incident",
+		"type": "NaturalWonder",
+		"science": 5,
+		"occursOn": ["Desert"],
+		"uniques": ["Must be adjacent to [0] [Coast] tiles",
+			"Must be adjacent to [0] [Grassland] tiles",
+			"Must be adjacent to [0] [Tundra] tiles",
+			"Must be adjacent to [0] [Marsh] tiles",
+			"Must be adjacent to [3] to [6] [Desert] tiles",
+			"Grants [+500 Science] to the first civilization to discover it"],
+		"turnsInto": "Desert",
+		"unbuildable": true,
+		"weight": 10
+	},
 ]

@@ -18,5 +18,21 @@
 	{
 		"name": "Herem"
 		"uniques": ["Destroys [in all cities] cities instead of capturing", "[+5] Strength"]
+	},
+	{
+		"name": "Evangelização do mundo"
+		"uniques": ["May enhance a religion <on foreign continents>", "[+3] Movement <on foreign continents>", "[+5] Movement <on foreign continents>", "Can be purchased with [Faith] [in all cities]",]
+	},
+		{
+		"name": "Male love"
+		"uniques": ["[This Unit] units gain the [Shock I] promotion <when adjacent to a [Male love] unit>","[+20]% Strength <when adjacent to a [Male love] unit>"]
+	},
+		{
+		"name": "urban fighting"
+		"uniques": ["[+15]% Strength <vs cities> <when attacking>"]
+	},
+	{
+		"name": "The Inquisitor's Touch"
+		"uniques": ["Destroys [in all cities] cities instead of capturing"]
 	}
 ]

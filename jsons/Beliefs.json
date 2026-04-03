@@ -29,4 +29,10 @@
         "uniques": ["All newly-trained [Melee] units [in all cities] receive the [Herem] promotion"]
     }
 
+    {
+        "name": "Fundamentalism",
+        "type": "Enhancer",
+        "uniques": ["May buy [Religious terrorist] buildings with [Faith] [in cities following this religion] <after discovering [Dynamite]>"]
+    },
+
 ]

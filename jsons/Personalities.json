@@ -1,0 +1,352 @@
+ [ 
+{
+      "name": "Krak",
+      "culture": 1,
+      "faith": 1,
+      "food": 8,
+      "gold": 1,
+      "happiness": 1,
+      "production": 4,
+      "science": 8,
+      "military": 8,
+      "aggressive": 8,
+      "declareWar": 8,
+      "commerce": 5,
+      "diplomacy": 2,
+      "loyal": 10,
+      "expansion": 10,
+
+      "priorities": {
+          "Tradition": 1,
+          "Liberty": 5,
+          "Honor": 10,
+          "Commerce": 1,
+          "Patronage": 1,
+          "Piety": 3,
+          "Rationalism": 1,
+          "Freedom": 1,
+          "Autocracy": 10,
+          "Order": 10
+      }
+
+  },
+
+{
+      "name": "Nefi",
+      "culture": 5,
+      "faith": 5,
+      "food": 5,
+      "gold": 2,
+      "happiness": 1,
+      "production": 10,
+      "science": 6,
+      "military": 10,
+      "aggressive": 10,
+      "declareWar": 10,
+      "commerce": 1,
+      "diplomacy": 1,
+      "loyal": 1,
+      "expansion": 10,
+
+      "priorities": {
+          "Tradition": 5,
+          "Liberty": 5,
+          "Honor": 10,
+          "Commerce": 1,
+          "Patronage": 1,
+          "Piety": 3,
+          "Rationalism": 1,
+          "Freedom": 1,
+          "Autocracy": 10,
+          "Order": 10
+      }
+
+  },
+
+{
+      "name": "Gnomes",
+      "culture": 7,
+      "faith": 5,
+      "food": 7,
+      "gold": 5,
+      "happiness": 10,
+      "production": 7,
+      "science": 8,
+      "military": 2,
+      "aggressive": 1,
+      "declareWar": 1,
+      "commerce": 10,
+      "diplomacy": 10,
+      "loyal": 6,
+      "expansion": 5,
+
+      "priorities": {
+          "Tradition": 8,
+          "Liberty": 5,
+          "Honor": 1,
+          "Commerce": 5,
+          "Patronage": 8,
+          "Piety": 5,
+          "Rationalism": 8,
+          "Freedom": 5,
+          "Autocracy": 1,
+          "Order": 5
+      }
+
+  },
+
+{
+      "name": "Gnomes",
+      "culture": 7,
+      "faith": 5,
+      "food": 7,
+      "gold": 5,
+      "happiness": 10,
+      "production": 7,
+      "science": 8,
+      "military": 2,
+      "aggressive": 1,
+      "declareWar": 1,
+      "commerce": 10,
+      "diplomacy": 10,
+      "loyal": 6,
+      "expansion": 5,
+
+      "priorities": {
+          "Tradition": 8,
+          "Liberty": 5,
+          "Honor": 1,
+          "Commerce": 5,
+          "Patronage": 8,
+          "Piety": 5,
+          "Rationalism": 8,
+          "Freedom": 5,
+          "Autocracy": 1,
+          "Order": 5
+      }
+
+  },
+
+
+{
+      "name": "Fingolia",
+      "culture": 4,
+      "faith": 5,
+      "food": 6,
+      "gold": 4,
+      "happiness": 5,
+      "production": 6,
+      "science": 10,
+      "military": 8,
+      "aggressive": 5,
+      "declareWar": 8,
+      "commerce": 5,
+      "diplomacy": 8,
+      "loyal": 7,
+      "expansion": 10,
+
+      "priorities": {
+          "Tradition": 5,
+          "Liberty": 8,
+          "Honor": 10,
+          "Commerce":5,
+          "Patronage": 5,
+          "Piety": 6,
+          "Rationalism": 10,
+          "Freedom": 5,
+          "Autocracy": 8,
+          "Order": 5
+      }
+
+  },
+
+{
+      "name": "Khemet",
+      "culture": 8,
+      "faith": 8,
+      "food": 5,
+      "gold": 7,
+      "happiness": 5,
+      "production": 5,
+      "science": 10,
+
+      "military": 5,
+      "aggressive": 5,
+      "declareWar": 6,
+      "commerce": 10,
+      "diplomacy": 7,
+      "loyal": 5,
+      "expansion": 5,
+
+      "priorities": {
+          "Tradition": 8,
+          "Liberty": 5,
+          "Honor": 1,
+          "Commerce": 10,
+          "Patronage": 10,
+          "Piety": 8,
+          "Rationalism": 10,
+          "Freedom": 8,
+          "Autocracy": 5,
+          "Order": 8
+      }
+
+  },
+
+{
+      "name": "Neuschwabenland",
+      "culture": 4,
+      "faith": 2,
+      "food": 5,
+      "gold": 2,
+      "happiness": 2,
+      "production": 8,
+      "science": 10,
+      "military": 10,
+      "aggressive": 7,
+      "declareWar": 7,
+      "commerce": 5,
+      "diplomacy": 2,
+      "loyal": 8,
+      "expansion": 2,
+
+      "priorities": {
+          "Tradition": 5,
+          "Liberty": 2,
+          "Honor": 10,
+          "Commerce": 2,
+          "Patronage": 2,
+          "Piety": 5,
+          "Rationalism": 10,
+          "Freedom": 2,
+          "Autocracy": 10,
+          "Order": 2
+      }
+
+  },
+
+{
+      "name": "Reptillian",
+      "culture": 8,
+      "faith": 6,
+      "food": 4,
+      "gold": 4,
+      "happiness": 7,
+      "production": 4,
+      "science": 9,
+      "military": 5,
+      "aggressive": 2,
+      "declareWar": 2,
+      "commerce": 10,
+      "diplomacy": 7,
+      "loyal": 2,
+      "expansion": 5,
+
+      "priorities": {
+          "Tradition": 7,
+          "Liberty": 2,
+          "Honor": 2,
+          "Commerce": 7,
+          "Patronage": 10,
+          "Piety": 7,
+          "Rationalism": 10,
+          "Freedom": 5,
+          "Autocracy": 5,
+          "Order": 10
+      }
+
+  },
+{
+      "name": "Pedro Pedro",
+      "culture": 7,
+      "faith": 8,
+      "food": 4,
+      "gold": 6,
+      "happiness": 4,
+      "production": 3,
+      "science": 4,
+      "military": 4,
+      "aggressive": 4,
+      "declareWar": 4,
+      "commerce": 5,
+      "diplomacy": 2,
+      "loyal": 8,
+      "expansion": 10,
+
+      "priorities": {
+          "Tradition": 5,
+          "Liberty": 3,
+          "Honor": 1,
+          "Commerce": 10,
+          "Patronage": 1,
+          "Piety": 10,
+          "Rationalism": 1,
+          "Freedom": 1,
+          "Autocracy": 10,
+          "Order": 10
+      }
+
+  }
+ {
+      "name": "mars",
+      "culture": 1,
+      "faith": 1,
+      "food": 4,
+      "gold": 1,
+      "happiness": 1,
+      "production": 6,
+      "science": 4,
+      "military": 8,
+      "aggressive": 8,
+      "declareWar": 8,
+      "commerce": 5,
+      "diplomacy": 2,
+      "loyal": 10,
+      "expansion": 1,
+
+      "priorities": {
+          "Tradition": 5,
+          "Liberty": 1,
+          "Honor": 10,
+          "Commerce": 1,
+          "Patronage": 6,
+          "Piety": 3,
+          "Rationalism": 1,
+          "Freedom": 1,
+          "Autocracy": 10,
+          "Order": 10
+      }
+
+  },
+   {
+      "name": "Kaczynski",
+      "culture": 5,
+      "faith": 5,
+      "food": 5,
+      "gold": 5,
+      "happiness": 5,
+      "production": 5,
+      "science": 1,
+      "military": 5,
+      "aggressive": 5,
+      "declareWar": 5,
+      "commerce": 5,
+      "diplomacy": 5,
+      "loyal": 5,
+      "expansion": 10,
+
+      "priorities": {
+          "Tradition": 10,
+          "Liberty": 10,
+          "Honor": 5,
+          "Commerce": 1,
+          "Patronage": 1,
+          "Piety": 5,
+          "Rationalism": 1,
+          "Freedom": 8,
+          "Autocracy": 5,
+          "Order": 5
+      }
+
+  },
+]

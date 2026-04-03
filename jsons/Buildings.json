@@ -117,6 +117,39 @@
 			"[+1 Gold, +1 Faith] from [Silver] tiles [in this city]",
 			"Unbuildable", "Only available <when religion is enabled>", "Destroyed when the city is captured"]
 	}
-
-
+	{
+		"name": "Canudos",
+		"replaces": "Shrine"
+		"uniqueTo": "Fifth Empire"
+		"faith": 2,
+		"cost": 40,
+		"maintenance": 1,
+		"requiredTech": "Pottery",
+		"uniques": ["Only available <when religion is enabled>",
+		"[+2 Food] from [Farm] tiles [in this city]",
+		"[+2 Food] from [Jungle] tiles [in this city]"]
+	},
+	{
+		"name": "Gymnasion",
+		"replaces": "Library",
+		"uniqueTo": "The Trve MEN empire",
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Science] per [2] population [in this city]","New [Military] units start with [15] XP [in this city]"],
+		"requiredTech": "Writing"
+	},
+	{
+		"name": "Apostolic Palace",
+		"replaces": "Palace",
+		"uniqueTo": "Catholic Church",
+		"isNationalWonder": true,
+		"production": 5,
+		"science": 5,
+		"gold": 5,
+		"culture": 2,
+		"faith": 5,
+		
+		"cityStrength": 2.5,
+		"cost": 0,
+		"uniques": ["Indicates the capital city","[+1 Faith] per [2] population [in this city]","[+1 Production] per [2] population [in this city]"]
+	},
 ]
