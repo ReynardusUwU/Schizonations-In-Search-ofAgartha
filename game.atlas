@@ -6,574 +6,980 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Apostolic Palace
   rotate: false
-  xy: 4, 1840
+  xy: 4, 1844
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Autism
   rotate: false
-  xy: 4, 1632
+  xy: 4, 1636
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Brainwashing Station
   rotate: false
-  xy: 4, 1424
+  xy: 4, 1428
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-BuildingIcons/Breeders
-  rotate: false
-  xy: 836, 900
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
 BuildingIcons/Canudos
   rotate: false
-  xy: 212, 1632
+  xy: 212, 1636
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Cyclopean Walls
   rotate: false
-  xy: 420, 1632
+  xy: 420, 1636
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Fingolian house of Science
   rotate: false
-  xy: 420, 1424
+  xy: 420, 1428
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Geheime Military Base
   rotate: false
-  xy: 628, 1632
+  xy: 628, 1636
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Golden Calf
   rotate: false
-  xy: 420, 1216
+  xy: 420, 1220
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Gymnasion
   rotate: false
-  xy: 1044, 1840
+  xy: 4, 596
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-BuildingIcons/Holodeck
-  rotate: false
-  xy: 1460, 1524
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
 BuildingIcons/Mushroom Farm
   rotate: false
-  xy: 212, 592
+  xy: 628, 1012
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Mysterium
   rotate: false
-  xy: 420, 800
+  xy: 836, 1220
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/TempleOS
   rotate: false
-  xy: 420, 592
+  xy: 1252, 1428
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Thoth Temple
   rotate: false
-  xy: 836, 1008
+  xy: 1668, 1844
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Vril Society
   rotate: false
-  xy: 1252, 1424
+  xy: 628, 596
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Zadruga
   rotate: false
-  xy: 1460, 1632
+  xy: 836, 804
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-NationIcons/Aliens
+ImprovementIcons/Sea Farm
   rotate: false
-  xy: 4, 68
+  xy: 1044, 904
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
+ImprovementIcons/Sea Fort
+  rotate: false
+  xy: 1252, 1112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Sea Mine
+  rotate: false
+  xy: 1460, 1320
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Sea Railroad
+  rotate: false
+  xy: 1668, 1528
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Sea Road
+  rotate: false
+  xy: 112, 72
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Sea Trading post
+  rotate: false
+  xy: 1876, 1728
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Teleforce
+  rotate: false
+  xy: 1044, 1220
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
 NationIcons/Catholic Church
   rotate: false
-  xy: 420, 1840
+  xy: 420, 1844
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/Fifth Empire
   rotate: false
-  xy: 4, 1008
+  xy: 4, 1012
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/Fingolia
   rotate: false
-  xy: 212, 1216
+  xy: 212, 1220
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/Gnomes
   rotate: false
-  xy: 212, 1008
+  xy: 212, 1012
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/Great Lechia
   rotate: false
-  xy: 836, 1632
+  xy: 836, 1636
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/Great Tartaria
+  rotate: false
+  xy: 1044, 1844
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/Kaczynski's Horde
   rotate: false
-  xy: 628, 1216
+  xy: 836, 1428
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/Khemet
   rotate: false
-  xy: 836, 1424
+  xy: 1044, 1636
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/Neuschwabenland
   rotate: false
-  xy: 628, 1008
+  xy: 1044, 1428
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/Pirates
   rotate: false
-  xy: 836, 1216
+  xy: 1252, 1636
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/Reptillian Hegemony
   rotate: false
-  xy: 1460, 1840
+  xy: 212, 388
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/Sea Folk
+  rotate: false
+  xy: 628, 804
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/The Trve MEN empire
   rotate: false
-  xy: 628, 800
+  xy: 1460, 1636
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/a
   rotate: false
-  xy: 1668, 1840
+  xy: 1044, 1012
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/נפילים
   rotate: false
-  xy: 420, 384
+  xy: 1460, 1428
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 ReligionIcons/Catholic
   rotate: false
-  xy: 1044, 1108
+  xy: 4, 72
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Church of the Flying Spaghetti Monster
   rotate: false
-  xy: 1252, 1316
+  xy: 1876, 1944
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Cthultu Cult
   rotate: false
-  xy: 4, 1216
+  xy: 4, 1220
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 ReligionIcons/Enlightened Communism
   rotate: false
-  xy: 628, 1840
+  xy: 628, 1844
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 ReligionIcons/Kali Yuga
   rotate: false
-  xy: 1668, 1732
+  xy: 420, 280
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Satanism
   rotate: false
-  xy: 628, 484
+  xy: 836, 696
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Scientology
   rotate: false
-  xy: 4, 176
+  xy: 420, 596
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 ReligionIcons/True Catholic
   rotate: false
-  xy: 112, 68
+  xy: 528, 280
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcon/Nekogirl
   rotate: false
-  xy: 1876, 1940
+  xy: 628, 488
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Black revolutionary
   rotate: false
-  xy: 1044, 1019
+  xy: 628, 399
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Cyber nomad
   rotate: false
-  xy: 836, 796
+  xy: 528, 176
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Gnome scout
   rotate: false
-  xy: 220, 72
+  xy: 736, 492
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Gnome warrior
   rotate: false
-  xy: 836, 692
+  xy: 944, 700
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Government agent
   rotate: false
-  xy: 944, 904
+  xy: 1152, 908
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Haunebu
   rotate: false
-  xy: 1152, 1112
+  xy: 1360, 1116
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Horemakhet
   rotate: false
-  xy: 1360, 1320
+  xy: 1568, 1324
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Jesuit
   rotate: false
-  xy: 1252, 1227
+  xy: 836, 607
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Lechitic hussars
   rotate: false
-  xy: 1568, 1528
+  xy: 1776, 1532
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Litle Sacred Band
   rotate: false
-  xy: 1460, 1435
+  xy: 1044, 815
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
+TileSets/AbsoluteUnits/Units/Mega Crab
+  rotate: false
+  xy: 1880, 1624
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Mega Crab-1
+  rotate: false
+  xy: 1880, 1520
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Mega Crab-2
+  rotate: false
+  xy: 1776, 1428
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
 TileSets/AbsoluteUnits/Units/Militar de Cristo
   rotate: false
-  xy: 1668, 1643
+  xy: 1252, 1023
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Pope
   rotate: false
-  xy: 1876, 1851
+  xy: 1460, 1231
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Religious terrorist
   rotate: false
-  xy: 628, 395
+  xy: 640, 87
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Religious terrorist-1
   rotate: false
-  xy: 836, 603
+  xy: 840, 518
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Religious terrorist-2
   rotate: false
-  xy: 940, 707
+  xy: 1048, 726
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Sacred Band
   rotate: false
-  xy: 1048, 930
+  xy: 1256, 934
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Scout
+  rotate: false
+  xy: 1464, 1142
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Sea Scout
+  rotate: false
+  xy: 636, 310
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Sea Scout-1
+  rotate: false
+  xy: 840, 429
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Sea Settler
+  rotate: false
+  xy: 1672, 1424
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Sea Settler-1
+  rotate: false
+  xy: 1672, 1320
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Sea Settler-2
+  rotate: false
+  xy: 1776, 1324
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Sea Worker
+  rotate: false
+  xy: 1048, 637
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Sea Worker-1
+  rotate: false
+  xy: 1256, 845
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Stoner
   rotate: false
-  xy: 1776, 1736
+  xy: 1880, 1416
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Stoner-1
   rotate: false
-  xy: 420, 172
+  xy: 328, 68
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
+TileSets/AbsoluteUnits/Units/Triton
+  rotate: false
+  xy: 1464, 1053
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Triton-1
+  rotate: false
+  xy: 1568, 1235
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Triton-2
+  rotate: false
+  xy: 1567, 1146
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
 TileSets/AbsoluteUnits/Units/primitive spearfish
   rotate: false
-  xy: 528, 280
+  xy: 432, 68
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/primitive spearfish-1
   rotate: false
-  xy: 736, 488
+  xy: 536, 72
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/עִיר
   rotate: false
-  xy: 940, 796
+  xy: 632, 176
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Epstein island
   rotate: false
-  xy: 4, 4
+  xy: 432, 4
   size: 68, 56
   orig: 68, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Roswell incident
   rotate: false
-  xy: 324, 112
+  xy: 1567, 1082
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Sea Farm
+  rotate: false
+  xy: 80, 8
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sea Farm-Pillaged
+  rotate: false
+  xy: 152, 4
+  size: 64, 60
+  orig: 64, 60
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sea FarmD-Pillaged
+  rotate: false
+  xy: 152, 4
+  size: 64, 60
+  orig: 64, 60
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sea FarmG-Pillaged
+  rotate: false
+  xy: 152, 4
+  size: 64, 60
+  orig: 64, 60
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sea FarmP-Pillaged
+  rotate: false
+  xy: 152, 4
+  size: 64, 60
+  orig: 64, 60
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sea FarmS-Pillaged
+  rotate: false
+  xy: 152, 4
+  size: 64, 60
+  orig: 64, 60
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sea FarmT-Pillaged
+  rotate: false
+  xy: 152, 4
+  size: 64, 60
+  orig: 64, 60
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sea FarmD
+  rotate: false
+  xy: 224, 8
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sea FarmDH
+  rotate: false
+  xy: 296, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sea FarmDH-Pillaged
+  rotate: false
+  xy: 536, 4
+  size: 64, 60
+  orig: 64, 60
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sea FarmGH-Pillaged
+  rotate: false
+  xy: 536, 4
+  size: 64, 60
+  orig: 64, 60
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sea FarmPH-Pillaged
+  rotate: false
+  xy: 536, 4
+  size: 64, 60
+  orig: 64, 60
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sea FarmSH-Pillaged
+  rotate: false
+  xy: 536, 4
+  size: 64, 60
+  orig: 64, 60
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sea FarmTH-Pillaged
+  rotate: false
+  xy: 536, 4
+  size: 64, 60
+  orig: 64, 60
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sea FarmG
+  rotate: false
+  xy: 1671, 1256
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sea FarmGH
+  rotate: false
+  xy: 1567, 1018
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sea FarmP
+  rotate: false
+  xy: 1743, 1256
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sea FarmPH
+  rotate: false
+  xy: 608, 8
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sea FarmS
+  rotate: false
+  xy: 680, 23
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sea FarmSH
+  rotate: false
+  xy: 1639, 1082
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sea FarmT
+  rotate: false
+  xy: 1639, 1018
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sea FarmTH
+  rotate: false
+  xy: 1671, 1192
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sea Fort
+  rotate: false
+  xy: 1743, 1192
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sea Fort-Atomic era
+  rotate: false
+  xy: 1711, 1128
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sea Fort-Industrial era
+  rotate: false
+  xy: 1711, 1064
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sea Fort-Pillaged
+  rotate: false
+  xy: 1711, 996
+  size: 64, 60
+  orig: 64, 60
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sea Mine
+  rotate: false
+  xy: 736, 428
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sea Mine-Industrial era
+  rotate: false
+  xy: 739, 364
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sea Mine-Pillaged
+  rotate: false
+  xy: 739, 292
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sea Trading post
+  rotate: false
+  xy: 736, 228
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sea Trading post-Industrial era
+  rotate: false
+  xy: 811, 365
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Teleforce
+  rotate: false
+  xy: 811, 293
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Trading post-Pillaged
+  rotate: false
+  xy: 883, 357
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Very shallow water
+  rotate: false
+  xy: 4, 8
+  size: 68, 56
+  orig: 68, 56
+  offset: 0, 0
+  index: -1
 UnitIcons/Black revolutionary
   rotate: false
-  xy: 212, 1840
+  xy: 212, 1844
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Cyber nomad
   rotate: false
-  xy: 212, 1424
+  xy: 212, 1428
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Gnome scout
   rotate: false
-  xy: 836, 1840
+  xy: 836, 1844
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Gnome warrior
   rotate: false
-  xy: 4, 800
+  xy: 4, 804
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Government agent
   rotate: false
-  xy: 628, 1424
+  xy: 628, 1428
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Haunebu
   rotate: false
-  xy: 4, 592
+  xy: 212, 804
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Horemakhet
   rotate: false
-  xy: 212, 800
+  xy: 420, 1012
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Jesuit
   rotate: false
-  xy: 420, 1008
+  xy: 628, 1220
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Lechitic hussars
   rotate: false
-  xy: 1044, 1632
+  xy: 1252, 1844
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Litle Sacred Band
   rotate: false
-  xy: 1252, 1840
+  xy: 4, 388
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Sacred Band
   rotate: false
-  xy: 1252, 1840
+  xy: 4, 388
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Mega Crab
+  rotate: false
+  xy: 212, 596
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Militar de Cristo
   rotate: false
-  xy: 4, 384
+  xy: 420, 804
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Phasers
-  rotate: false
-  xy: 420, 276
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
 UnitIcons/Pope
   rotate: false
-  xy: 1044, 1424
+  xy: 1460, 1844
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Religious terrorist
   rotate: false
-  xy: 1252, 1632
+  xy: 4, 180
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
+UnitIcons/Sea Scout
+  rotate: false
+  xy: 1876, 1836
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Sea Settler
+  rotate: false
+  xy: 220, 72
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Sea Worker
+  rotate: false
+  xy: 420, 172
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/Stoner
   rotate: false
-  xy: 212, 384
+  xy: 836, 1012
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Triton
+  rotate: false
+  xy: 212, 180
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Vatican Settler
   rotate: false
-  xy: 1044, 1216
+  xy: 420, 388
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/primitive spearfish
   rotate: false
-  xy: 212, 176
+  xy: 1252, 1220
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/עִיר
   rotate: false
-  xy: 628, 592
+  xy: 1668, 1636
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
